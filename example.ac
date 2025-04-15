@@ -1,0 +1,13 @@
+// basic code
+
+// float b
+f b
+
+// integer a
+i a
+
+a = 5
+b = a + 3.2
+
+// print 8.5
+p b
